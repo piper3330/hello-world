@@ -21,12 +21,12 @@ I'm teaching myself how to code and how to use GitHub. I'm hoping to create some
       <li>value attribute</li>
       <li>links and images</li>
   </ul>
-  <p>
+  <p><form>
   <label for="yes">
   <input id="yes" type="checkbox" value="yes" name="yes-no"> Yes</label>
   <label for="no">
   <input id="no" type="checkbox" value="no" name="yes-no"> No
-  </label>
+      </label></form>
   </p>
     </div>
   </body>
